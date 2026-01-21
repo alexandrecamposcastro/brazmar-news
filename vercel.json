@@ -1,31 +1,10 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "api/server.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/styles.css",
-      "dest": "/public/styles.css"
-    },
-    {
-      "src": "/script.js",
-      "dest": "/public/script.js"
-    },
-    {
-      "src": "/noticias.json",
-      "dest": "/public/noticias.json"
-    },
-    {
-      "src": "/images/(.*)",
-      "dest": "/public/images/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "api/server.js"
-    }
+  "rewrites": [
+    { "source": "/styles.css", "destination": "/public/styles.css" },
+    { "source": "/script.js", "destination": "/public/script.js" },
+    { "source": "/noticias.json", "destination": "/public/noticias.json" },
+    { "source": "/images/(.*)", "destination": "/public/images/$1" },
+    { "source": "/(.*)", "destination": "/api/server.js" }
   ]
 }
