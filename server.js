@@ -7,7 +7,7 @@ const cron = require('node-cron');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(express.static('public'));
+app.use(express.static(path.join(__dirname, 'public')));
 
 // API para atualizar notícias manualmente
 app.get('/api/update-news', (req, res) => {

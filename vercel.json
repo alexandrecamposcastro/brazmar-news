@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/styles.css", "destination": "/public/styles.css" },
+    { "source": "/script.js", "destination": "/public/script.js" },
+    { "source": "/noticias.json", "destination": "/public/noticias.json" },
+    { "source": "/images/:path*", "destination": "/public/images/:path*" },
+    { "source": "/api/(.*)", "destination": "/server.js" },
+    { "source": "/(.*)", "destination": "/server.js" }
+  ]
+}
