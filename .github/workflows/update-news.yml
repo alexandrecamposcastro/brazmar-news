@@ -2,84 +2,47 @@ name: Atualizar Notícias Brazmar
 
 on:
   schedule:
-    # Roda a cada 4 horas (UTC) - 1h, 5h, 9h, 13h, 17h, 21h BR
     - cron: '0 */4 * * *'
-
   workflow_dispatch:
-  
-  # Roda quando faz push do bot.py 
   push:
     paths:
       - 'bot.py'
-      - 'requirements.txt'
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
     
     steps:
-      # 1. Baixa o código
       - name: Checkout código
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      # 2. Configura Python
-      - name: Setup Python 3.9
+          fetch-depth: 0
+
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      
-      # 3. Instala dependências
+
       - name: Instalar dependências
-        run: |
-          pip install -r requirements.txt
-          echo "✅ Dependências instaladas"
-      
-      # 4. Executa o bot (Ele já salva dentro de public/)
+        run: pip install -r requirements.txt
+
       - name: Executar bot.py
         run: |
           python bot.py
-          echo "Bot executado com sucesso"
-          # Verifica se o arquivo realmente foi criado na pasta public
-          ls -la public/noticias.json
-      
-      # 5. Verifica se houve mudança no arquivo dentro de public/
-      - name: Verificar mudanças
-        id: git-check
-        run: |
-          git status
-          # Verifica se o arquivo dentro de public mudou
-          if [ -n "$(git status --porcelain public/noticias.json)" ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
-          else
-            echo "changed=false" >> $GITHUB_OUTPUT
-          fi
-      
-      # 6. Se mudou, faz o commit e joga pro GitHub (que avisa o Vercel)
-      - name: Commit e Push
-        if: steps.git-check.outputs.changed == 'true'
+          echo "Bot finalizado."
+
+      - name: Commit e Push das mudanças
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'actions@github.com'
+          
+          # Adiciona apenas o arquivo que está dentro da pasta public
           git add public/noticias.json
-          git commit -m "Atualização automática de notícias [$(date +'%d/%m/%Y %H:%M')]"
-          git push
-      
-      # 7. Se mudou, faz commit e push
-      - name: Commit e Push
-        if: steps.git-check.outputs.changed == 'true'
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          git add noticias.json
-          if [ -d "public" ]; then
-            git add public/noticias.json
+          
+          # Verifica se há algo para commitar para não dar erro se não houver notícias novas
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança detectada no noticias.json"
+          else
+            git commit -m "🤖 Atualização automática: $(date +'%d/%m/%Y %H:%M')"
+            git push
           fi
-          git commit -m "Atualização automática de notícias - $(date +'%d/%m/%Y %H:%M')"
-          git push
-          echo "Alterações enviadas"
-      
-      - name: Nenhuma mudança
-        if: steps.git-check.outputs.changed != 'true'
-        run: echo "Nenhuma notícia nova encontrada"
