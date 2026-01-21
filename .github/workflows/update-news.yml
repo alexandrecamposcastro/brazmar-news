@@ -4,43 +4,32 @@ on:
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
-  push:
-    paths:
-      - 'bot.py'
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Dá permissão de escrita diretamente no job
+      contents: write
     
     steps:
-      - name: Checkout código
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - name: Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
-      - name: Instalar dependências
+      - name: Deps
         run: pip install -r requirements.txt
 
-      - name: Executar bot
+      - name: Run Bot
         run: python bot.py
 
-      - name: Commit e Push Force
+      - name: Push Changes
         run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'actions@github.com'
-          
-          # Adiciona tudo o que foi alterado (incluindo dentro da public)
-          git add .
-          
-          # Só faz commit se houver mudanças, para não dar erro de "nothing to commit"
-          if ! git diff --cached --quiet; then
-            git commit -m "🤖 Auto-update: $(date +'%d/%m/%Y %H:%M')"
-            git push
-          else
-            echo "Sem notícias novas para atualizar."
-          fi
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "🤖 update: $(date)" || exit 0
+          git push
