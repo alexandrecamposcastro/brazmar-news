@@ -1,19 +1,15 @@
 {
   "name": "brazmar-noticias",
-  "version": "2.0.0",
-  "description": "Sistema de monitoramento de notícias do setor marítimo",
+  "version": "1.0.0",
+  "main": "server.js",
   "scripts": {
-    "dev": "node server.js",
-    "build": "echo 'Build não necessário para estático'",
-    "start": "node server.js",
-    "update-news": "python bot.py"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
-    "node-cron": "^3.0.3",
-    "axios": "^1.6.0"
+    "node-cron": "^3.0.2"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": "18.x"
   }
 }
