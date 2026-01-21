@@ -12,7 +12,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Arquivos gerados
-noticias.json
 .python-packages/
 
 # Sistema
