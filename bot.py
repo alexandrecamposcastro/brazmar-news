@@ -20,7 +20,6 @@ TERMOS_BUSCA = [
     "protection indemnity club",
     "marine insurance claim",
     "shipping liability insurance",
-    "船舶保険 P&I",
     
     # Acidentes e sinistros
     "navio afundado Brasil",
