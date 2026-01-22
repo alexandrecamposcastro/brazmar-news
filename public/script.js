@@ -12,8 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const btnBuscar = document.getElementById('btnBuscar');
     const buscaInput = document.getElementById('buscaInput');
     const ordenarSelect = document.getElementById('ordenarSelect');
-    
-    // Estado
+
     let noticias = [];
     let noticiasFiltradas = [];
     let filtroAtual = 'todas';

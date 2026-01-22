@@ -7,7 +7,7 @@ import sys
 import time
 import os
 
-print(f"🚀 Iniciando Brazmar Bot v3.0 P&I (Python {sys.version.split()[0]})")
+print(f"Iniciando bot de notícias : (Python {sys.version.split()[0]})")
 print("=" * 60)
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -249,13 +249,13 @@ def buscar_noticias_google_rss(termo_busca):
         response = requests.get(url, headers=HEADERS, timeout=30)
         
         if response.status_code != 200:
-            print(f"   ⚠️  Erro HTTP: {response.status_code}")
+            print(f"Erro HTTP: {response.status_code}")
             return noticias
         
         root = ET.fromstring(response.content)
         
         items = root.findall('.//item')
-        print(f"   📰 Encontrados {len(items)} itens no feed")
+        print(f"Encontrados {len(items)} itens no feed")
         
         for item in items[:10]: 
             try:
@@ -303,10 +303,10 @@ def buscar_noticias_google_rss(termo_busca):
             except Exception as e:
                 continue  
         
-        print(f"   ✅ Relevantes: {len(noticias)} notícias")
+        print(f"Relevantes: {len(noticias)} notícias")
         
     except Exception as e:
-        print(f"   ❌ Erro: {str(e)[:50]}...")
+        print(f"Erro: {str(e)[:50]}...")
     
     return noticias
 
@@ -327,7 +327,7 @@ def salvar_noticias(noticias, pasta='public'):
     try:
         if not os.path.exists(pasta):
             os.makedirs(pasta)
-            print(f"📁 Pasta '{pasta}' criada")
+            print(f"Pasta '{pasta}' criada")
         
         noticias.sort(key=lambda x: datetime.strptime(x['data'], '%d/%m/%Y'), reverse=True)
         
@@ -336,17 +336,17 @@ def salvar_noticias(noticias, pasta='public'):
         with open(caminho_arquivo, 'w', encoding='utf-8') as f:
             json.dump(noticias, f, ensure_ascii=False, indent=2)
         
-        print(f"💾 Arquivo salvo: {caminho_arquivo}")
-        print(f"📊 Total de notícias salvas: {len(noticias)}")
+        print(f"Arquivo salvo: {caminho_arquivo}")
+        print(f"Total de notícias salvas: {len(noticias)}")
         
         return True
         
     except Exception as e:
-        print(f"❌ Erro ao salvar arquivo: {str(e)}")
+        print(f"Erro ao salvar arquivo: {str(e)}")
         return False
 
 def criar_noticias_exemplo(pasta='public'):
-    print("\n📝 Criando notícias de exemplo P&I...")
+    print("\nCriando notícias de exemplo P&I...")
     
     noticias_exemplo = [
         {
@@ -400,9 +400,9 @@ def criar_noticias_exemplo(pasta='public'):
     return noticias_exemplo
 
 def main():
-    print("🎯 BRAZMAR P&I - Coletor de Notícias Especializado")
-    print(f"📅 Período: últimos 30 dias")
-    print(f"🔑 Termos de busca P&I: {len(TERMOS_BUSCA)}")
+    print("BRAZMAR P&I - Coletor de Notícias Especializado")
+    print(f"Período: últimos 60 dias")
+    print(f"Termos de busca P&I: {len(TERMOS_BUSCA)}")
     print("=" * 60)
     
     todas_noticias = []
@@ -418,18 +418,18 @@ def main():
     noticias_unicas = remover_duplicatas(todas_noticias)
     
     print(f"\n{'='*60}")
-    print(f"📈 Total encontrado: {len(noticias_unicas)} notícias P&I relevantes")
+    print(f"Total encontrado: {len(noticias_unicas)} notícias P&I relevantes")
     
     if noticias_unicas:
         sucesso = salvar_noticias(noticias_unicas, 'public')
 
         if sucesso:
-            print("\n📋 RESUMO DAS NOTÍCIAS P&I:")
+            print("\nRESUMO DAS NOTÍCIAS P&I:")
             for i, noticia in enumerate(noticias_unicas[:8], 1):
                 print(f"{i}. [{noticia['tag']}] {noticia['titulo'][:60]}...")
-                print(f"   📅 {noticia['data']} | 📰 {noticia['fonte']}")
+                print(f"{noticia['data']} | 📰 {noticia['fonte']}")
             
-            print("\n🏷️  DISTRIBUIÇÃO POR CATEGORIA:")
+            print("\nDISTRIBUIÇÃO POR CATEGORIA:")
             tags = {}
             for noticia in noticias_unicas:
                 tags[noticia['tag']] = tags.get(noticia['tag'], 0) + 1
@@ -438,20 +438,20 @@ def main():
                 print(f"   {tag}: {count} notícias")
                 
     else:
-        print("\n📭 Nenhuma notícia P&I encontrada.")
+        print("\nNenhuma notícia P&I encontrada.")
         print("Criando notícias de exemplo para demonstração...")
         criar_noticias_exemplo('public')
     
-    print(f"\n✅ Processo concluído em {datetime.now().strftime('%H:%M:%S')}")
+    print(f"\nProcesso concluído em {datetime.now().strftime('%H:%M:%S')}")
     print("=" * 60)
 
 if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print("\n\n⚠️  Processo interrompido pelo usuário")
+        print("\n\nProcesso interrompido pelo usuário")
     except Exception as e:
-        print(f"\n❌ ERRO CRÍTICO: {str(e)}")
+        print(f"\nERRO CRÍTICO: {str(e)}")
         import traceback
         traceback.print_exc()
         criar_noticias_exemplo('public')
