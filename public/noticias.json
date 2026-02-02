@@ -1,73 +1,42 @@
 [
   {
-<<<<<<< HEAD
     "titulo": "Navio que afundou na Segunda Guerra Mundial é achado no litoral de São Paulo por mergulhadores; naufrágio teve 7 mortes",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM0VwME05LVl3Z0lTWTlzcFU4dVoxUTZpaTFuYTVmbHphcXJuZEZ6YVRYSVgyOUc2NWdwUVd1cUJVNzdza042Q2NEdDNsa2dfaW1uOUdlODlNSXFzS2Y1bGdScGY4RG90ZXk5N0lad0U2dmhZejZRd1pkMVRGQW9Bd05xLTZVWHlYMTRENWc2OXBTNGhyVFBBWjJ0VmszUG1SVkpMbUNJTENfSDB5eUh5ZzV1b205c09na25aVk1QQ1cybTFkLWxxWGUxOTNCbHFKU0VhYlU0NXhZWlMteE9aS3VYWjU1WUJVVDV0cmxfQUFuV0FJSnc?oc=5",
     "data": "23/01/2026",
     "fonte": "A Tribuna",
     "risco_pontuacao": 1,
-    "analise_ia": "A notícia se refere à descoberta de um navio que afundou na Segunda Guerra Mundial, com o registro de 7 mortes no evento original. Para fins de seguro P&I (Protection & Indemnity), que cobre responsabilidades de terceiros para navios *ativos* de seus membros, este evento histórico não representa um risco direto. As responsabilidades (mortes, danos) do naufrágio original são de um passado muito distante e não recaem sobre um clube P&I atual para um navio que não é operado por um membro segurado. O único risco *potencial indireto* seria se o naufrágio recém-descoberto representasse um novo perigo à navegação (se fosse superficial ou instável) ou uma fonte de poluição que pudesse ser atribuída a operações atuais, mas a notícia não sugere isso e, mesmo que houvesse, a responsabilidade primária recairia sobre as autoridades governamentais ou entidades que possam vir a interagir com o naufrágio (e estas teriam sua própria cobertura P&I para as suas operações).",
+    "analise_ia": "A descoberta de um navio naufragado da Segunda Guerra Mundial no litoral de São Paulo possui, primariamente, valor histórico e arqueológico. Para um Clube de Seguros P&I, o impacto marítimo e jurídico direto é mínimo a negligenciável. O incidente é histórico e não está associado a embarcações atualmente seguradas pelo Clube. As sete mortes mencionadas são parte do evento original e não geram novas responsabilidades de P&I. Embora naufrágios possam, em tese, gerar responsabilidade por remoção (ex: Convenção de Nairobi 2007) e poluição, no caso de um navio da Segunda Guerra Mundial, a identificação de um proprietário responsável para fins de responsabilidade civil atual é altamente improvável, e a maior parte dos poluentes voláteis teria se dissipado ao longo das décadas. Quaisquer custos de remoção ou remediação ambiental seriam, em primeira instância, responsabilidade do Estado costeiro, ou tratados como questões de patrimônio histórico, não de responsabilidade P&I de um navio moderno. Não há indicação de que o naufrágio recém-descoberto represente um novo e imediato perigo à navegação que exija ação ativa do Clube.",
     "entidades": [
-      "navio (naufrágio da Segunda Guerra Mundial)",
-      "mergulhadores",
-      "litoral de São Paulo",
-      "autoridade marítima (implicada na gestão de naufrágios)"
+      "Navio naufragado da Segunda Guerra Mundial",
+      "litoral de São Paulo"
     ],
-    "recomendacao": "Não há uma ação direta de P&I a ser tomada pelos clubes ou seus membros em relação a esta notícia específica, pois ela trata de um evento histórico. Recomenda-se apenas monitorar se as autoridades marítimas locais (e.g., Marinha do Brasil) emitirão alguma declaração sobre o status do naufrágio como um perigo à navegação ou potencial fonte de poluição, o que, em última instância, seria uma preocupação governamental ou de entidades envolvidas em possíveis operações de remoção/mitigação, e não de P&I para um segurado atual sem relação com o naufrágio histórico."
-=======
-    "titulo": "MPor estende até 2051 cessão do Porto do Itaqui à Emap",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGlxXzhPbU83TTFXMDVHOFdOZVJyYi1SNVUzV2IyZGJENFNWLTl3ZWZhcFFLb1U0dWNrYWdYS1lWWTNkWEVLSlcyQThXb19CNTBJQ1J0dzVkLVU2aFFyNDFaQUFmVzNLa042UTg0T1g3eGNWUzIyTlUxdGx2T0lvNzZiTktFR2NQcWQyVGtoY0prY1dzc2RLQWRVTlpuOGh0aEdwYjdpVWZ0NkZfUTFJcmRNQXlSUQ?oc=5",
-    "data": "30/01/2026",
-    "fonte": "Portos e Navios",
-    "tag": "Portuário",
-    "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGlxXzhPbU83TTFXMDVHOFdOZVJyYi1SNVUzV2IyZGJENFNWLTl3ZWZhcFFLb1U0dWNrYWdYS1lWWTNkWEVLSlcyQThXb19CNTBJQ1J0dzVkLVU2aFFyNDFaQUFmVzNLa042UTg0T1...",
-    "termo_busca": "Complexo Portuário Itaqui"
-  },
-  {
-    "titulo": "Concluída dragagem do canal interno do Porto de Suape",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpmeE9vcWVvOUtyejdOaVVrbWpGajlCeE9YakV1dUgxUW5nbU5md3FSSl82cTl0LUxVcUpBR1JOUUUySFBxUVgyY296Ylh5bFlOZUJ6b2dkRGl1MnRRRlhJMmxCVERwd2ZSVll4OW1kRWlKM1dHWDhLR0lzTkdOZGVMUUwwVzZyQ1R1elVBMzQ3ckFnVHhVMGZLbG82QkNZRlRlR2NYRF9uZW9NaUUwUWZXUGw?oc=5",
-    "data": "30/01/2026",
-    "fonte": "Portos e Navios",
-    "tag": "Portuário",
-    "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWpmeE9vcWVvOUtyejdOaVVrbWpGajlCeE9YakV1dUgxUW5nbU5md3FSSl82cTl0LUxVcUpBR1JOUUUySFBxUVgyY296Ylh5bFlOZUJ6b2dkRGl1MnRRRlhJMmxCVERwd2ZSVll4OW...",
-    "termo_busca": "Porto de Suape notícias"
->>>>>>> 651876bfe5a5e3c87ee89b23e7f5aa71ab59a961
+    "recomendacao": "Não há necessidade de ação imediata ou impacto direto nas apólices de seguro ativas do Clube P&I. Recomenda-se manter um monitoramento passivo de quaisquer desenvolvimentos subsequentes que possam surgir (ex: identificação oficial do navio, avaliação de impacto ambiental residual, declaração de perigo à navegação que possa ter implicações de política pública), embora a probabilidade de qualquer responsabilidade recair sobre o Clube para este evento histórico seja extremamente baixa."
   },
   {
     "titulo": "Navios-bomba: propostas para acordo visam mitigar – e não evitar – possíveis acidentes e explosões no porto de Santos",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejZxTXRER09fb1Y5UFcwRE8zZVVvcFJpWlROOTF6LXpWUEMzRmNrWi1EalZENTg0RlFFamktWHY1aVBNTzVoSjE2WWxkMndYT01KOHA2bnNjbnVLV20wRWVzSE41T2VWRXl1X0hGU1ZuVmJHaFgyM3ZRWlAyTFdvYjNmUFc1WWpUaHhjUlBHaFFSU0RWbXFhY0tMdXBHcVJmbkFMaXZxWHNXMi1OT3lYa0QzWUdYVmNOR3pNeU1vdHJhZUFaREFBTlV1N1p4YzUyTk9wSi1zenlsUjhZRWwtY1VYOXVmQTg?oc=5",
     "data": "25/01/2026",
     "fonte": "Blog do Pedlowski",
-<<<<<<< HEAD
     "risco_pontuacao": 9,
-    "analise_ia": "A notícia revela um risco elevado e inerente de acidentes e explosões no Porto de Santos, decorrente da presença de 'navios-bomba' (provavelmente referindo-se a embarcações transportando cargas perigosas, como combustíveis ou produtos químicos). O fato de as propostas visarem 'mitigar – e não evitar' indica que o risco é reconhecido como inevitável na operação portuária atual, apenas controlável. Para um seguro P&I, isso significa um potencial catastrófico para responsabilidades de terceiros: danos a outros navios, infraestrutura portuária, perda de vidas (tripulantes e trabalhadores portuários), poluição ambiental em larga escala, e interrupção das operações portuárias. As indenizações em caso de sinistro podem ser extremamente altas, cobrindo remoção de destroços, custos de limpeza, responsabilidade por carga e danos à propriedade alheia.",
+    "analise_ia": "A notícia sinaliza um risco catastrófico no Porto de Santos, onde a estratégia é mitigar, em vez de prevenir, possíveis acidentes e explosões envolvendo 'navios-bomba' (assumidos como embarcações com cargas altamente perigosas/voláteis). Do ponto de vista marítimo, isso representa uma ameaça iminente de perdas significativas de vidas, danos extensivos à infraestrutura portuária, a outras embarcações, severa poluição ambiental e paralisação prolongada das operações. Juridicamente, o cenário eleva dramaticamente o potencial para sinistros P&I de grande magnitude, englobando responsabilidade por danos a terceiros (fatalidades, lesões corporais, danos materiais), custos de remoção de destroços, e extensas demandas por lucros cessantes. A abordagem de 'mitigar e não evitar' pode implicar em um nível de risco tolerado que poderá impactar a defesa e o cálculo de responsabilidades em caso de incidente.",
     "entidades": [
-      "Navio (próprio e terceiros)",
-      "Armador/Operador do navio",
-      "Porto de Santos (infraestrutura e operações)",
-      "Carga perigosa",
-      "Meio ambiente"
+      "Porto de Santos",
+      "Navios transportadores de carga perigosa"
     ],
-    "recomendacao": "Para o subscritor de P&I, é crucial: 1. **Avaliação Detalhada da Carga**: Identificar os tipos de cargas perigosas transportadas pelos navios segurados que escalam Santos. 2. **Due Diligence Aprimorada**: Revisar rigorosamente os protocolos de segurança, planos de contingência e histórico de conformidade dos navios e armadores, bem como as regulamentações e fiscalizações do porto. 3. **Revisão de Termos e Condições**: Considerar a implementação de cláusulas específicas para cargas perigosas e operações em Santos, possivelmente com franquias mais altas ou exclusões para cenários específicos. 4. **Ajuste de Prêmios**: Refletir o risco elevado nos prêmios cobrados. 5. **Monitoramento Ativo**: Acompanhar as negociações do 'acordo' e as novas medidas de mitigação implementadas pelas autoridades portuárias e armadores. 6. **Requisitos de Prevenção de Perdas**: Exigir dos segurados a adoção de medidas adicionais de prevenção de perdas ou certificações de segurança específicas para este tipo de risco."
-=======
-    "tag": "Sinistro",
-    "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejZxTXRER09fb1Y5UFcwRE8zZVVvcFJpWlROOTF6LXpWUEMzRmNrWi1EalZENTg0RlFFamktWHY1aVBNTzVoSjE2WWxkMndYT01KOHA2bnNjbnVLV20wRWVzSE41T2VWRXl1X0hGU1...",
-    "termo_busca": "colisão navios porto"
->>>>>>> 651876bfe5a5e3c87ee89b23e7f5aa71ab59a961
+    "recomendacao": "O Clube deve: 1. Realizar uma avaliação de risco urgente e detalhada para embarcações que escalam o Porto de Santos com cargas perigosas. 2. Emitir uma circular alertando os membros sobre o risco elevado e a necessidade de aderência rigorosa aos protocolos de segurança e regulamentos para cargas perigosas. 3. Engajar-se proativamente com as autoridades portuárias de Santos para entender as propostas de mitigação e suas implicações legais e de responsabilidade. 4. Revisar as condições de cobertura e considerar ajustes de prêmios ou cláusulas específicas para navios que operam neste porto com cargas de alto risco."
   },
   {
     "titulo": "Incêndio irrompe em navio no porto de Durrës, perigo para a vida das pessoas evitado",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2lKb20wUzNmWVo3UTloNHhET01tSVU1cHhaYWM2Wk9EN0YtcG9uamRCclU5TFY4M2pNeGFxN2w0Z3A2Znh5dk5INjhtZDlTQktodzRsVlNpNXRtUjh3Ykx3Si1DYTlxZzVSU2pGUHVlbUVUczNYcnl1UlNETGtpdklra2JOLWxVZWVLX0ZzR1ViRW44TmtlWVR3MEg0NWljWU5fYVR0SWRZNGZUcWxUNnBVOF9nX05lQXVzbTJNRldGTkE?oc=5",
     "data": "21/01/2026",
     "fonte": "Indeksonline.",
-    "risco_pontuacao": 7,
-    "analise_ia": "Um incêndio em um navio no porto de Durrës representa um risco significativo para um seguro P&I. Embora a notícia mencione que o 'perigo para a vida das pessoas [foi] evitado', esta é uma declaração inicial que necessita de verificação. Incidentes de incêndio em portos podem gerar múltiplas responsabilidades P&I, incluindo: danos à carga, poluição (fumaça, água de combate a incêndio, combustíveis/lubrificantes), danos a estruturas portuárias (cais, guindastes), danos a outras embarcações próximas, e custos de remoção de destroços caso o navio seja severamente danificado. Mesmo que não haja fatalidades imediatas, podem surgir reclamações por lesões menores, trauma psicológico da tripulação ou de trabalhadores portuários, e custos de resposta a emergências. O escopo e a gravidade exata dos danos ainda precisam ser determinados, mas o potencial para sinistros elevados é considerável.",
+    "risco_pontuacao": 8,
+    "analise_ia": "O incêndio a bordo de um navio no porto de Durrës representa um risco significativo para o Clube P&I. Embora a notícia indique que o perigo para a vida humana foi evitado, o evento implica alta probabilidade de danos materiais à embarcação, à carga, e a infraestruturas portuárias, bem como potencial poluição marítima por combustível ou resíduos da carga. Os custos de salvamento, remoção de destroços e uma declaração de Avaria Grossa são cenários prováveis. Há também riscos de interrupção de operações portuárias e investigação da causa do incêndio, que pode resultar em reivindicações de terceiros por danos ou atrasos.",
     "entidades": [
-      "navio",
-      "empresa",
-      "porto"
+      "Navio não identificado",
+      "Porto de Durrës"
     ],
-    "recomendacao": "Monitorizar de perto a situação para obter atualizações sobre o alcance do incêndio, a extensão dos danos ao navio e à carga, e qualquer impacto ambiental. Iniciar uma investigação detalhada sobre a causa do incêndio, as medidas de segurança a bordo e a resposta da emergência. Preparar-se para potenciais reclamações de terceiros (cargueiros, autoridades portuárias, ambientalistas) e avaliar a necessidade de peritos para inspeção e avaliação de danos, incluindo o risco de poluição. É crucial verificar se realmente não houve feridos ou fatalidades e se todos os procedimentos de segurança foram seguidos, para mitigar futuras reclamações de responsabilidade civil."
+    "recomendacao": "Contactar imediatamente o membro segurado para obter detalhes completos do incidente. Designar correspondentes locais e peritos (H&M, carga, poluição) para investigar a extensão dos danos, a causa do incêndio e avaliar potenciais responsabilidades de terceiros. Monitorizar quaisquer operações de salvamento, remoção de destroços ou combate à poluição. Aconselhar sobre a declaração de Avaria Grossa e garantir a recolha de provas para futuras defesas ou reivindicações."
   },
   {
     "titulo": "VÍDEO: Incêndio atinge silo de grãos no Terminal Marítimo Ponta da Madeira, em São Luís",
@@ -75,15 +44,12 @@
     "data": "29/12/2025",
     "fonte": "G1",
     "risco_pontuacao": 8,
-    "analise_ia": "Um incêndio em um silo de grãos em um terminal marítimo representa um risco P&I significativo, principalmente para navios que estavam atracados no momento do incidente ou programados para atracar. Os principais impactos P&I incluem:\n\n1.  **Danos à Carga:** Alto risco de perdas ou danos à carga (grãos) que estava sendo carregada/descarregada ou que já estava a bordo do navio por fogo, fumaça ou água utilizada no combate ao incêndio.\n2.  **Lesões Pessoais:** Potencial de lesões ou morte de tripulantes, estivadores ou outros trabalhadores portuários devido ao incêndio, inalação de fumaça, ou durante a evacuação/combate.\n3.  **Danos a Terceiros:** Possibilidade de danos à infraestrutura do terminal (docks, equipamentos, outros silos) que possam ser atribuídos, de alguma forma, à operação do navio segurado (embora menos provável para o incêndio inicial no silo, pode haver incidentes secundários).\n4.  **Poluição:** Risco de poluição ambiental por resíduos do incêndio, materiais de combate a incêndio ou, em caso de danos estruturais mais amplos no terminal, vazamento de combustíveis ou outros produtos armazenados.\n5.  **Atrasos Operacionais:** Bloqueio do porto ou do berço, resultando em atrasos substanciais para navios segurados, gerando custos de desvio, demurrage ou perdas de frete.\n6.  **Custos de Salvação/Remoção:** Se o navio for danificado e necessitar de assistência ou reboque.",
+    "analise_ia": "Um incêndio em silo de grãos no Terminal Marítimo Ponta da Madeira, em São Luís, representa um risco significativo para Clubes P&I. O incidente levanta preocupações com potenciais perdas de carga (grãos), interrupção das operações portuárias (business interruption) que podem gerar demurrage e despesas de desvio para navios-membro, e danos à infraestrutura do terminal. Há também o risco de poluição atmosférica/hídrica decorrente da fumaça e resíduos, além de possíveis lesões ou fatalidades de trabalhadores portuários ou equipes de emergência. A causa do incêndio será crucial para determinar responsabilidades, podendo implicar negligência na operação do terminal ou na estiva/armazenagem da carga. Requer monitoramento atento para identificar quaisquer navios-membro afetados ou com responsabilidades potenciais.",
     "entidades": [
-      "navio (operador/armador segurado)",
-      "terminal marítimo (operador do silo)",
-      "proprietários da carga (grãos)",
-      "autoridades portuárias",
-      "P&I Club"
+      "Terminal Marítimo Ponta da Madeira",
+      "São Luís"
     ],
-    "recomendacao": "Para o P&I Club e seus membros, as seguintes ações são sugeridas:\n\n1.  **Identificação de Membros:** Verificar imediatamente se algum navio segurado estava atracado no Terminal Marítimo Ponta da Madeira ou programado para atracar nas proximidades durante ou logo após o incidente.\n2.  **Monitoramento de Sinistros:** Preparar-se para potenciais sinistros de carga (perda/dano de grãos), lesões pessoais de tripulantes ou trabalhadores, e possíveis reivindicações de poluição ou danos a terceiros.\n3.  **Aconselhamento Operacional:** Aconselhar os membros com navios programados para o porto de São Luís sobre o status operacional do terminal, possíveis atrasos e a necessidade de planos de contingência (berços alternativos, desvios).\n4.  **Revisão de Procedimentos:** Recomendar a revisão dos protocolos de segurança e combate a incêndio para operações de carregamento/descarregamento de grãos a granel, especialmente em terminais com silos, focando em prevenção e resposta a emergências.\n5.  **Investigação:** Acompanhar de perto a investigação das causas do incêndio para entender a fonte e potenciais responsabilidades envolvidas."
+    "recomendacao": "Monitorar ativamente a evolução do incidente e a investigação da causa. Identificar navios-membro que estavam no porto, ou com escala programada, no momento do incêndio ou que transportavam/receberiam a carga afetada para avaliar potenciais exposições a sinistros de carga, atrasos e interrupção de operações. Recomendar revisão das práticas de segurança e prevenção de incêndios em terminais portuários que operam com cargas combustíveis (grãos) para membros."
   },
   {
     "titulo": "Concluída dragagem do canal interno do Porto de Suape",
@@ -91,14 +57,11 @@
     "data": "30/01/2026",
     "fonte": "Portos e Navios",
     "risco_pontuacao": 2,
-    "analise_ia": "A conclusão da dragagem do canal interno do Porto de Suape representa uma redução significativa no risco de navegação para as embarcações que acessam o porto. Canais mais profundos diminuem a probabilidade de incidentes como encalhes (grounding) e colisões devido a restrições de manobra, que são causas comuns de sinistros P&I (responsabilidade por danos a terceiros, poluição, carga e remoção de destroços). Este desenvolvimento melhora a segurança operacional e, consequentemente, o perfil de risco para seguradoras P&I, tornando as operações mais seguras e potencialmente reduzindo a frequência e severidade de sinistros relacionados à navegação em águas restritas.",
+    "analise_ia": "A conclusão da dragagem do canal interno do Porto de Suape representa uma melhoria significativa na segurança da navegação e na operacionalidade do porto. Para um Clube P&I, esta notícia é geralmente positiva, pois implica a redução de riscos de encalhe, abalroamento e outros incidentes marítimos relacionados a profundidades insuficientes ou restrições de calado. O aumento da profundidade e a melhoria das condições do canal permitem um tráfego mais seguro, acesso a navios de maior calado e menor probabilidade de danos a embarcações, cargas e infraestruturas portuárias. Consequentemente, a probabilidade de sinistros cobertos por P&I (como danos a casco, carga, poluição e obstrução de vias navegáveis) relacionados a problemas de calado neste porto tende a diminuir.",
     "entidades": [
-      "porto",
-      "navio",
-      "empresa de navegação",
-      "Autoridade Portuária"
+      "Porto de Suape"
     ],
-    "recomendacao": "Atualizar as avaliações de risco para as embarcações que escalam o Porto de Suape, considerando as novas profundidades. Recomenda-se confirmar a publicação oficial das cartas náuticas atualizadas e a comunicação formal das novas condições de calado. Orientar os segurados sobre as melhorias para que possam otimizar suas operações de forma segura."
+    "recomendacao": "Atualizar os registros internos e informações de segurança marítima para membros sobre as novas condições de profundidade e navegação no canal interno do Porto de Suape. Comunicar aos membros que operam nesta rota sobre a melhoria das condições e a potencial redução de riscos. Monitorar futuras publicações sobre novas cartas náuticas ou regulamentações portuárias decorrentes desta dragagem."
   },
   {
     "titulo": "Para Maersk novo terminal de conêineres em Suape abre perspectivas do etanol para os novos navios da empresa movidos a metanol",
@@ -106,34 +69,32 @@
     "data": "26/01/2026",
     "fonte": "JC",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Antaq abre apuração sobre projeto no Porto de Suape",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmRCQjFfcHdnTkVXckl2TXRyTnlpdldUMXUxSUwzS09zNktPQjhFaC1PemVPdlF1TzlpYXpuSWZqT2Z4NEhab2FMTGJNZVdkTmxEc25qT2UycC1WSGZWVWdQUEhoY2p3Smh6R01jVml6Q0h1cFpRY0QySFp4Wnh3aDlETHhQWmdyd2szbURfazVlV1FLUC04NG9xelo0cHUwRGc?oc=5",
     "data": "13/01/2026",
     "fonte": "VEJA",
-    "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
-    "entidades": [],
-    "recomendacao": "N/A"
+    "risco_pontuacao": 7,
+    "analise_ia": "A abertura de apuração pela Antaq sobre um projeto no Porto de Suape indica um aumento da fiscalização regulatória que pode impactar as operações portuárias e marítimas. Potenciais riscos incluem atrasos na execução do projeto, interrupções nas operações de navios que utilizam o porto, aplicação de multas ou sanções às partes envolvidas, e até mesmo litígios contratuais relacionados a demurrage ou perdas por atraso. Para um Clube P&I, esta situação pode gerar exposição a reclamações de membros relacionadas a interrupções operacionais, danos à carga devido a atrasos ou desvio, e potenciais passivos ambientais ou regulatórios se o projeto tiver tais implicações. A investigação da Antaq sinaliza um cenário de incerteza que pode afetar a previsibilidade dos serviços portuários em Suape.",
+    "entidades": [
+      "Antaq",
+      "Porto de Suape"
+    ],
+    "recomendacao": "Monitorar de perto o desenrolar da apuração da Antaq e suas potenciais implicações para as operações portuárias em Suape. Aconselhar membros com interesses no Porto de Suape a revisar contratos e planos de contingência. Avaliar o potencial impacto em seguros de carga, casco e máquina, e coberturas de P&I relacionadas a atrasos, multas e interrupções operacionais."
   },
   {
     "titulo": "Antaq fiscaliza atrasos no Terminal de Regaseificação de Suape",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTE9EaGxmRXhuVUs5a3diV0JLWG5aQ1ZSbFc1V3pfREJ6OU16bTBfb3VfenZrQ2tiRHRZcTk5bnE4em5uTFgzSkJVWk1qN2N4RTBaQmlFeEtkWHVONWNlMjU1WkpoNUlraWU4Y0FHX3JINUtLekltYWZQR1dtVkJmWWo2b0w2RXZscFBfUXhkN09MRV9rZHc?oc=5",
     "data": "12/01/2026",
     "fonte": "Portal BE News",
-    "risco_pontuacao": 8,
-    "analise_ia": "A fiscalização da Antaq sobre atrasos no Terminal de Regaseificação de Suape representa um risco significativo para o seguro P&I. Atrasos prolongados podem gerar uma série de passivos para o armador/operador da embarcação, incluindo custos elevados de demurrage e detenção, potenciais quebras de contrato de transporte de GNL, e multas ou penalidades impostas pela Antaq por falhas operacionais ou impactos na cadeia de suprimentos. Além disso, a maior permanência de navios no porto aumenta a exposição a riscos operacionais como colisões, avarias à infraestrutura portuária, danos à carga (Gás Natural Liquefeito), acidentes com tripulantes ou terceiros (estivadores) e, em casos extremos, riscos ambientais. A natureza crítica e especializada do terminal de regaseificação amplifica o impacto financeiro de qualquer interrupção.",
-    "entidades": [
-      "navio (transportador de GNL)",
-      "empresa operadora do terminal",
-      "porto (Suape)",
-      "armador/afretador da embarcação"
-    ],
-    "recomendacao": "Revisar as cláusulas de fretamento e contratos de transporte de GNL para mitigar riscos de demurrage e interrupção. Aconselhar os segurados a intensificar as avaliações de risco pré-chegada para o Terminal de Suape, incluindo o monitoramento do status operacional e possíveis gargalos. Exigir do terminal um plano de contingência para atrasos. Considerar a implementação de medidas adicionais de prevenção de perdas e garantir que a cobertura P&I contemple especificamente multas regulatórias e responsabilidades contratuais decorrentes de atrasos em terminais críticos."
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Terminal de regaseificação (Regás) de Suape entra em operação em 2027",
@@ -141,9 +102,9 @@
     "data": "14/01/2026",
     "fonte": "Movimento Econômico",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "ANTAQ libera licitação de terminal para veículos no Porto de Suape",
@@ -151,9 +112,9 @@
     "data": "08/12/2025",
     "fonte": "Agência iNFRA",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Cheiro forte causa mal-estar em moradores e interrompe operação de navio no Porto de Santos",
@@ -161,9 +122,9 @@
     "data": "18/12/2025",
     "fonte": "G1",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Terminal de GNL em Santos amplia operação com balsa para transporte de caminhões",
@@ -171,9 +132,9 @@
     "data": "31/01/2026",
     "fonte": "A Tribuna",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Porto de Santos tem apreensão de 148kg de droga em navio ABC do ABC",
@@ -181,9 +142,9 @@
     "data": "25/01/2026",
     "fonte": "Portal ABC do ABC",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Paranaguá receberá navios de cruzeiro na temporada 2026/2027",
@@ -191,9 +152,9 @@
     "data": "28/01/2026",
     "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Leite participa da assinatura de concessão para construção de terminal da CMPC no Porto de Rio Grande",
@@ -201,9 +162,9 @@
     "data": "20/01/2026",
     "fonte": "Portal do Estado do Rio Grande do Sul",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Financiamento de R$ 331 milhões do BNDES visa preparar Porto de Rio Grande para navios maiores",
@@ -211,9 +172,9 @@
     "data": "10/12/2025",
     "fonte": "G1",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "“Aspirantex 2026”: operação no mar orienta escolha da carreira dos futuros Oficiais da Marinha",
@@ -221,9 +182,9 @@
     "data": "12/01/2026",
     "fonte": "Agência Marinha de Notícias",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Fundo da Marinha Mercante destina R$ 218 milhões para projetos no Sul do país — Portos e Aeroportos",
@@ -231,9 +192,9 @@
     "data": "30/12/2025",
     "fonte": "www.gov.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Região Sudeste recebeu R$ 6,6 bilhões do Fundo da Marinha Mercante para projetos de infraestrutura aquaviária",
@@ -241,9 +202,9 @@
     "data": "05/01/2026",
     "fonte": "www.gov.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Fundo da Marinha Mercante destina R$ 7,1 bilhões a projetos no Nordeste em 2025 — Portos e Aeroportos",
@@ -251,9 +212,9 @@
     "data": "26/12/2025",
     "fonte": "www.gov.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos da Bahia divulga balanço parcial da Operação Navegue Seguro após 30 dias",
@@ -261,9 +222,9 @@
     "data": "30/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos de Laguna tem primeira mulher no comando desde a criação, há mais de 100 anos",
@@ -271,9 +232,9 @@
     "data": "01/02/2026",
     "fonte": "Ligado no Sul",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Primeira mulher comandará Capitania dos Portos de Laguna em SC",
@@ -281,9 +242,9 @@
     "data": "29/01/2026",
     "fonte": "ND Mais",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos da Bahia apoia Procissão Marítima do Senhor do Bonfim",
@@ -291,9 +252,9 @@
     "data": "30/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitão Amanda Paranhos assume Capitania dos Portos em momento histórico: ‘Marinha sempre foi pioneira’",
@@ -301,9 +262,9 @@
     "data": "29/01/2026",
     "fonte": "Agora Laguna",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Pela primeira vez na história, mulher assume comando da Capitania dos Portos de Laguna",
@@ -311,9 +272,9 @@
     "data": "30/01/2026",
     "fonte": "sulagora.com.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Laguna tem primeira mulher no comando da Capitania dos Portos",
@@ -321,9 +282,9 @@
     "data": "30/01/2026",
     "fonte": "sctododia",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos de Laguna tem sua primeira comandante mulher em cerimônia histórica",
@@ -331,9 +292,9 @@
     "data": "29/01/2026",
     "fonte": "Hora Hiper",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Laguna tem primeira mulher no comando da Capitania dos Portos após mais de um século",
@@ -341,9 +302,9 @@
     "data": "30/01/2026",
     "fonte": "unitv.com.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Primeira mulher a comandar a Capitania dos Portos em Laguna assume oficialmente",
@@ -351,9 +312,9 @@
     "data": "30/01/2026",
     "fonte": "TubaNews",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos da Bahia apoia procissão marítima de Bom Jesus dos Navegantes",
@@ -361,9 +322,9 @@
     "data": "30/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "‘Fez história’: saiba quem é a primeira mulher a comandar a Capitania dos Portos de Laguna",
@@ -371,9 +332,9 @@
     "data": "29/01/2026",
     "fonte": "ND Mais",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Campanha Legal no Mar é lançada pela Capitania dos Portos da Bahia durante o 1º Fórum de Segurança da Navegação | CPBA",
@@ -381,9 +342,9 @@
     "data": "30/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos da Bahia realiza ações educativas e intensifica fiscalização no Baixo Sul do estado",
@@ -391,9 +352,9 @@
     "data": "28/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos da Bahia realiza palestra para pescadores em Cabaceiras do Paraguaçu",
@@ -401,9 +362,9 @@
     "data": "28/01/2026",
     "fonte": "Marinha do Brasil",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Decreto compatibiliza proteção ambiental com segurança jurídica",
@@ -411,9 +372,9 @@
     "data": "27/12/2025",
     "fonte": "Consultor Jurídico",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Consulta pública da Antaq sobre afretamento de embarcações já está aberta",
@@ -421,9 +382,9 @@
     "data": "09/12/2025",
     "fonte": "A Tribuna",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Pontos de abastecimento de navios no Porto de Rio Grande passam por vistoria técnica — Ibama",
@@ -431,9 +392,9 @@
     "data": "09/12/2025",
     "fonte": "www.gov.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Porto de Itaguaí/RJ recebe primeiros vagões do metrô de Belo Horizonte e reafirma excelência logística",
@@ -441,9 +402,9 @@
     "data": "29/01/2026",
     "fonte": "www.gov.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Receita Federal realiza busca aduaneira em navio atracado no Porto de Santos e identifica contêiner contaminado com 289 kg de cocaína",
@@ -451,9 +412,9 @@
     "data": "29/12/2025",
     "fonte": "www.gov.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Acidente a bordo de graneleiro termina com morte de contramestre no Pacífico colombiano",
@@ -461,9 +422,9 @@
     "data": "29/01/2026",
     "fonte": "Jornal Portuário",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Venezuela anuncia retorno de navio petroleiro em operação com EUA",
@@ -471,9 +432,9 @@
     "data": "10/01/2026",
     "fonte": "InfoMoney",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "EUA dizem ter apreendido dois navios petroleiros ligados à Venezuela – um deles com bandeira russa",
@@ -481,9 +442,9 @@
     "data": "07/01/2026",
     "fonte": "BBC",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Dragagem amplia capacidade do Porto de Suape e permite atracação de navios de grande porte",
@@ -491,9 +452,9 @@
     "data": "30/01/2026",
     "fonte": "tmc.com.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Sulnorte receberá novo rebocador em março e avalia mais 7 unidades",
@@ -501,9 +462,9 @@
     "data": "30/01/2026",
     "fonte": "Portos e Navios",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Wilson Sons lança rebocador de alta potência para atender navios New Panamax",
@@ -511,9 +472,9 @@
     "data": "30/01/2026",
     "fonte": "Transporte Moderno",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Rebocadores construídos em Guarujá começam a ser entregues por Wilson Sons",
@@ -521,9 +482,9 @@
     "data": "30/01/2026",
     "fonte": "A Tribuna",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Rebocador norueguês vai retirar cargueiro sem leme ao largo da Figueira da Foz",
@@ -531,9 +492,9 @@
     "data": "27/01/2026",
     "fonte": "SÁBADO",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Figueira da Foz. Rebocador norueguês deverá remover cargueiro esta noite",
@@ -541,9 +502,9 @@
     "data": "27/01/2026",
     "fonte": "RTP",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Constellation abre nova vaga offshore para 2026: oportunidade para trabalhar embarcado em escala 14×14 com direito a vale alimentação, assistência odontológica, seguro de vida e mais",
@@ -551,9 +512,9 @@
     "data": "29/01/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Instrumentista offshore se torna profissional “raro” ao assumir controle de sistemas críticos e receber salários acima de R$ 22 mil por mês no setor offshore",
@@ -561,9 +522,9 @@
     "data": "27/01/2026",
     "fonte": "CPG Click Petróleo e Gás",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Superintendência do Porto de Itajaí visita a Praticagem de Itajaí",
@@ -571,9 +532,9 @@
     "data": "09/12/2025",
     "fonte": "Porto de Itajaí",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "AVISO DE PAUTA – ATRACAÇÃO DO NAVIO DE CRUZEIRO SILVER WHISPER",
@@ -581,9 +542,9 @@
     "data": "17/12/2025",
     "fonte": "Administração dos Portos de Paranaguá e Antonina",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Marinha autoriza navio de guerra do Reino Unido a atracar no Brasil após quase seis anos no Atlântico Sul",
@@ -591,9 +552,9 @@
     "data": "21/01/2026",
     "fonte": "Revista Sociedade Militar",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Dragagem possibilitará atracação de navios de grande porte em Suape",
@@ -601,9 +562,9 @@
     "data": "24/12/2025",
     "fonte": "CBN Recife",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Granel sólido e contêineres impulsionam alta de 26% na movimentação aquaviária da Região Sul em novembro de 2025",
@@ -611,9 +572,19 @@
     "data": "19/01/2026",
     "fonte": "www.gov.br",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
+  },
+  {
+    "titulo": "Mais de 900 bilhões de VND foram investidos na construção do cais nº 6 no Porto de Chan May.",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORjliYVYxVVY2N2Z4Z2hlcXFBaVZLU0FpbkItVjdFbFVxZndzRXVMNDdrVWxnbE1IMFMzd1FJcGdMdXlEb01wSWJpUGd3MWxJNURJclVIWUU4RXJZRERrelJWVnRZMkY5VTRIcjZPdmExUEJUTVVBSDBTZnI5SHZEWXJEaVhSMnM?oc=5",
+    "data": "15/01/2026",
+    "fonte": "Vietnam.vn",
+    "risco_pontuacao": 0,
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
+    "entidades": [],
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "O que é a frota de navios fantasmas que os EUA acusam a Venezuela de usar para burlar sanções e exportar petróleo?",
@@ -621,19 +592,9 @@
     "data": "11/12/2025",
     "fonte": "BBC",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
-  },
-  {
-    "titulo": "Xmobots, Petrobras e Marinha do Brasil firmam acordo para ampliação de drones na defesa naval e proteção ambiental",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZHBtM2FJTlhWdjZHMkhQNUc2WXBSekprNE15LXNWb2U1MzJld2JadHV1T2NXWjZRU0lER24yclBRYkNqNG9NclpyZlUtM2pzSWMwTk5FQXlCSTQtOVhZVnEzNTR6eVAtN3RIQUtQeFFDM2x5YXFXU1hxWGZyalNxbEo0LUxMb3ZreXBtUE4tRF9DOHZIc3BlUEtGYkhKem50bTg3eDkzTTF0TEtUMllzdE9wZ0pOM3lMQW5MQW1lbEp6TTN0WWFIQkVVZEYyTVFDZkF4cnBiZ29rSzE3b2U00gHkAUFVX3lxTE5fYnJ1SFVtZWlMMlRGQVJzZXRnVXNYanRpMHR6aDVLRWpGOEpTOTRiclRoclhDRko4LUN2dDBoek05cGVBR3FUd184a3d4cVFjaE5Ka0pQbVZXa28wNzlQZGxhM0FiQTRBN1JDX2dDbXVBQVZqR3V4cU1MMjBra3diTjk4cURhN29fU2NLaWlVRTdzaHRQU1BXMXVtY3hEcnhJTjAtNF9lY0JRMm9HSzhLLXVnWEhvTWVRZHg5S1lDdXFIVmZpUFpoZDh2MDZBbEVSdmYyRVlneXVBMXlLc09ORVNoRA?oc=5",
-    "data": "27/01/2026",
-    "fonte": "MundoGEO",
-    "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
-    "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Marinha do Brasil entrega 22 Carteiras de Pescador Profissional em Coruripe e reforça segurança marítima, Capitania dos Portos de Alagoas, em 29 de janeiro",
@@ -641,19 +602,9 @@
     "data": "30/01/2026",
     "fonte": "DefesaTV",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
-  },
-  {
-    "titulo": "Marinha do Brasil aposta em drones nacionais para proteção ambiental",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVJIeFUzOXJJQVRsLXQweThpdm5JLWpyZ3RrczBuNTBHLWtXdDJGNUhxUFVYSlJGaTdIa2V5Qm1hRzVYUUZOY0FqRjZBQmRzbjNTQzd0SkV3ZExtQ1RZdTl6R0gxS2x2ZEU3b3FBOXdDWTZyNzN4cnBUanZrazFTcE5EZVRjUGVEUjFSR3dLT0ljQWQ1NEhXRDMxTWJkb1JHcGZF?oc=5",
-    "data": "28/01/2026",
-    "fonte": "Defesa em Foco",
-    "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
-    "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Capitania dos Portos de Laguna tem primeira mulher no comando em mais de 100 anos",
@@ -661,9 +612,9 @@
     "data": "30/01/2026",
     "fonte": "Notisul",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Marinha do Brasil resgata oito pessoas após acidente com aeronave de táxi aéreo no litoral do RJ",
@@ -671,9 +622,9 @@
     "data": "03/01/2026",
     "fonte": "Agência Marinha de Notícias",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Marinha do Brasil adota drones nacionais para proteção ambiental, acordo com XMobots e Petrobras amplia vigilância e SAR nas AJB, anúncio no Rio de Janeiro",
@@ -681,9 +632,9 @@
     "data": "28/01/2026",
     "fonte": "DefesaTV",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Marinha do Brasil intensifica buscas em Maricá, aciona operação SAR com navios e aeronave e amplia varredura por barco com seis tripulantes neste fim de semana",
@@ -691,9 +642,9 @@
     "data": "19/01/2026",
     "fonte": "DefesaTV",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   },
   {
     "titulo": "Marinha Portuguesa coordena o salvamento de 589 pessoas em 2025",
@@ -701,8 +652,8 @@
     "data": "01/01/2026",
     "fonte": "marinha.pt",
     "risco_pontuacao": 0,
-    "analise_ia": "Erro na análise",
+    "analise_ia": "Falha no processamento: 429 You exceeded your current quota, please check ",
     "entidades": [],
-    "recomendacao": "N/A"
+    "recomendacao": "Revisão manual necessária"
   }
 ]
